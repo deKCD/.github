@@ -1,4 +1,4 @@
-# de.KCD
+# German Competence Center Cloud Technologies for Data Management and Processing (de.KCD)
 
 The German Competence Center Cloud Technologies for Data Management and Processing (de.KCD) is a cross-location and cross-domain contact point for teaching skills in handling data using cloud-based technologies, resources and methods for institutions and networked centers as well as for researchers at all career levels.
 
