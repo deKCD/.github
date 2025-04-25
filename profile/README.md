@@ -24,7 +24,8 @@ We use our GitHub organization to coordinate our project activities and as a sin
 - [ELIXIR Europe](https://elixir-europe.org/)
 
 ## Code of Conduct
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/lifs-tools/.github/blob/main/CODE_OF_CONDUCT.md) 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/lifs-tools/.github/blob/main/CODE_OF_CONDUCT.md)
+
 We openly invite contributions from any interested party and try to actively encourage and foster collaboration.
 Please note that we adhere to the [Contributor Covenant Code of Conduct](https://github.com/deNBI/.github/blob/main/CODE_OF_CONDUCT.md) to create and maintain a welcoming, positive and productive environment for our community. Our code of conduct is also aligned with the [ELIXIR Germany code of conduct](https://www.denbi.de/code-of-conduct). 
 
